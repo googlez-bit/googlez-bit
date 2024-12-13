@@ -1,10 +1,23 @@
-- 👋 Hi, I’m @googlez-bit
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+**Hi there 👋**
+I'm [Your Name], a fresh graduate with a Bachelor of Science in Information Systems, passionate about creating impactful software and web applications. I'm on an exciting journey to start my career as a programmer and continuously hone my skills in development.
 
-<!---
-googlez-bit/googlez-bit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# 💻 Skills & Interests
+Programming Languages & Tools: PHP, SQL, Ajax, HTML, Bootstrap, Laravel, Java, Visual Basic
+Focus Areas: Web Development, Software Development
+Key Strengths: Problem-solving, UI design, database management, and end-to-end application development.
+# 🚀 Projects I've Worked On
+##BCCT E-Library System (2019)
+
+Developed using Visual Basic (VB) with a MySQL database.
+Role: Head UI Designer
+Enhanced the accessibility of library resources through an intuitive digital platform.
+##Heart Guide (2022)
+
+Built using Java and MySQL.
+A user-friendly application designed to provide educational insights and guidance for heart health.
+##POS and Inventory System for L.A Moto
+
+Created using Laravel as the core stack.
+Streamlined business operations with efficient inventory tracking and sales management.
+#🌟 Career Goals
+I'm eager to contribute to innovative projects as a web or software developer, with a long-term vision of becoming a full-stack developer. I'm especially interested in joining organizations that value technology’s role in improving lives and driving business growth.
