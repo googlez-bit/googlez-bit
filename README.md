@@ -1,5 +1,5 @@
 **Hi there 👋**
-I'm [Your Name], a fresh graduate with a Bachelor of Science in Information Systems, passionate about creating impactful software and web applications. I'm on an exciting journey to start my career as a programmer and continuously hone my skills in development.
+I'm **John Lyod Sembilla**, a fresh graduate with a Bachelor of Science in Information Systems, passionate about creating impactful software and web applications. I'm on an exciting journey to start my career as a programmer and continuously hone my skills in development.
 
 # 💻 Skills & Interests
 Programming Languages & Tools: PHP, SQL, Ajax, HTML, Bootstrap, Laravel, Java, Visual Basic
